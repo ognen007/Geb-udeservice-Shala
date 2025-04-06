@@ -156,7 +156,7 @@ export default function Home() {
                 <Mail className="w-6 h-6 text-primary mr-4" />
                 <div>
                   <h3 className="font-semibold">E-Mail</h3>
-                  <p className="text-muted-foreground">service.sefershala@gmail.com</p>
+                  <p className="text-muted-foreground">info@gebäudeservice-shala.de</p>
                 </div>
               </div>
               <div className="flex items-center">
