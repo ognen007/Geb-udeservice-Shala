@@ -163,7 +163,7 @@ export default function Home() {
                 <MapPin className="w-6 h-6 text-primary mr-4" />
                 <div>
                   <h3 className="font-semibold">Adresse</h3>
-                  <p className="text-muted-foreground">Königsbach-Stein 75203</p>
+                  <p className="text-muted-foreground">75203 Königsbach-Stein</p>
                 </div>
               </div>
               <div className="flex items-center">
